@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[std::vector<${1:}>${0:}]]></content>
+    <content><![CDATA[std::vector<${1:int}>${0:}]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>vector</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->
