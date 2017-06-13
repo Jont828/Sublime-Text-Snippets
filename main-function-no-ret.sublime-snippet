@@ -1,0 +1,11 @@
+<snippet>
+	<description>main() NO RET</description>
+	<content><![CDATA[main(int argc, char *argv[]) {
+
+	${0:}
+
+	return 0;
+}]]></content>
+	<tabTrigger>main</tabTrigger>
+	<scope>source.c, source.objc, source.c++, source.objc++</scope>
+</snippet>
