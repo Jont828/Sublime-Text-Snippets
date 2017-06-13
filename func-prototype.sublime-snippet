@@ -1,5 +1,5 @@
 <snippet>
-	<description>func() proto</description>
+	<description>Function Prototype</description>
 	<content><![CDATA[${1:void} ${2:function}(${3:})]]></content>
 	<tabTrigger>proto</tabTrigger>
 	<scope>source.c, source.objc, source.c++, source.objc++</scope>

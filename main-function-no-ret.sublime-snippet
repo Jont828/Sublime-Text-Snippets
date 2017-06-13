@@ -1,5 +1,5 @@
 <snippet>
-	<description>main() NO RET</description>
+	<description>main() [No Return]</description>
 	<content><![CDATA[main(int argc, char *argv[]) {
 
 	${0:}
