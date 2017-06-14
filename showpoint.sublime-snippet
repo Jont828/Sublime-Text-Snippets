@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[std::showpoint]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>showpoint</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.c++</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>std::showpoint</description>
+</snippet>

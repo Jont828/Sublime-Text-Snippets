@@ -1,6 +1,6 @@
 <snippet>
 	<description>int main()</description>
-	<content><![CDATA[int main(int argc, char *argv[]) {
+	<content><![CDATA[int main(int argc, char* argv[]) {
 
 	${0:}
 
