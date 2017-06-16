@@ -1,6 +1,0 @@
-<snippet>
-	<description>Function Prototype</description>
-	<content><![CDATA[${1:void} ${2:function}(${3:})]]></content>
-	<tabTrigger>func</tabTrigger>
-	<scope>source.c, source.objc, source.c++, source.objc++</scope>
-</snippet>
