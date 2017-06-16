@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[static_cast<${1:int}>(${2:/* variable */})]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>static_cast</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.c++</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>static_cast</description>
+</snippet>
