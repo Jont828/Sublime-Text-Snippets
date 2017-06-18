@@ -1,6 +1,6 @@
 <snippet>
 	<description>Vector For Loop</description>
-	<content><![CDATA[for(std::vector<$1>::iterator ${2:itr}; ${2:i} = $3.begin(); $2 != $3.end(); $2++) {
+	<content><![CDATA[for(std::vector<$1>::iterator ${2:itr} = $3.begin(); $2 != $3.end(); $2++) {
 	${0:/* code */}
 }]]></content>
 	<tabTrigger>forv</tabTrigger>
